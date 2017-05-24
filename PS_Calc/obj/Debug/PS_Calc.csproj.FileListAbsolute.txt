@@ -1,0 +1,15 @@
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\View\MainWindow.g.cs
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\App.g.cs
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\PS_Calc_MarkupCompile.cache
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\PS_Calc_MarkupCompile.lref
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\bin\Debug\PS_Calc.exe.config
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\bin\Debug\PS_Calc.exe
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\bin\Debug\PS_Calc.pdb
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\View\MainWindow.baml
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\PS_Calc.g.resources
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\PS_Calc.Properties.Resources.resources
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\PS_Calc.csproj.GenerateResource.Cache
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\PS_Calc.exe
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\PS_Calc.pdb
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\TU\PS\CourseWork\PS_Calc\PS_Calc\obj\Debug\PS_Calc.csprojResolveAssemblyReference.cache
